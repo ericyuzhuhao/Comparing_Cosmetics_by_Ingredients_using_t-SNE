@@ -1,6 +1,8 @@
 # Comparing_Cosmetics_by_Ingredients_using_t-SNE
 
-This project compared 1472 cosmetics on Sephora based on similarities in chemical ingredients using t-SNE. The following project description was obtained from DataCamp (https://learn.datacamp.com/projects/695)
+This project compared 1472 cosmetics on Sephora based on similarities in chemical ingredients using t-SNE. To view interactive features in the notebook, please use nbviwer (https://github.com/ericyuzhuhao/Comparing_Cosmetics_by_Ingredients_using_t-SNE/blob/main/Comparing%20Cosmetics%20by%20Ingredients.ipynb)
+
+The following project description was obtained from DataCamp (https://learn.datacamp.com/projects/695).
 
 Buying new cosmetic products is difficult. It can even be scary for those who have sensitive skin and are prone to skin trouble. The information needed to alleviate this problem is on the back of each product, but it's tought to interpret those ingredient lists unless you have a background in chemistry.
 
