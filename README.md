@@ -1,6 +1,6 @@
 # Comparing_Cosmetics_by_Ingredients_using_t-SNE
 
-This project compared 1472 cosmetics on Sephora based on similarities in chemical ingredients using t-SNE. To view interactive features in the notebook, please use nbviwer (https://nbviewer.jupyter.org/github/ericyuzhuhao/Comparing_Cosmetics_by_Ingredients_using_t-SNE/blob/main/Comparing%20Cosmetics%20by%20Ingredients.ipynb).
+This project compared 1472 cosmetics on Sephora based on similarities in chemical ingredients using t-SNE. To view interactive features in the notebook, please use nbviewer (https://nbviewer.jupyter.org/github/ericyuzhuhao/Comparing_Cosmetics_by_Ingredients_using_t-SNE/blob/main/Comparing%20Cosmetics%20by%20Ingredients.ipynb).
 
 The following project description was obtained from DataCamp (https://learn.datacamp.com/projects/695).
 
